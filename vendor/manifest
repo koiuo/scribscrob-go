@@ -1,0 +1,23 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/cihub/seelog",
+			"repository": "https://github.com/cihub/seelog",
+			"revision": "c510775bb50d98213cfafca75a4bc5e3fddc8d8f",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/jteeuwen/go-pkg-mpd",
+			"repository": "https://github.com/jteeuwen/go-pkg-mpd",
+			"revision": "48c6a4b6d6ea704b899620602c26f0670f63b297",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/stretchr/testify",
+			"repository": "https://github.com/stretchr/testify",
+			"revision": "ddcad49ec6b8f31bc3daf3a1fbea7eac58d61ff0",
+			"branch": "master"
+		}
+	]
+}
